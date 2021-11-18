@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "omofonShifr/1.0.0": {
+        "runtime": {
+          "omofonShifr.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "omofonShifr/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
